@@ -1,0 +1,27 @@
+
+Services modification Assigned with Thamindu
+
+
+Modified Store Procedures in DataBase
+Time - 2 hours   Status - 100% completed
+[SessionGetTodayDoctorSession] --> Executed
+[SessionsDoctorByGet] --> Executed
+[SessionSave] --> Executed
+[SessionGetTodayDefaultDoctorSession] --> Executed
+[SessionGet] --> Executed
+
+
+Created Nano services API >> Modified with (Type) variable - Time(1 hour) 100% completed
+
+Business Layer Entities >> Session.cs created (Type) variable - Time(10mins) 100% completed
+
+Business Layer Services >> Session.cs modified post method with (Type) variable - Time (30mins) Completed 100%
+
+Modify Nano Services API >> Added leo.http.lite.dll file to reference Time(10mins) completed 100% 
+
+
+Power outage - 2 hours and 30 mins for both developers at different time durations
+
+
+
+
